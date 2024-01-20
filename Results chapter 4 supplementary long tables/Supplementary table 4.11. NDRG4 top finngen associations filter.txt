@@ -1,0 +1,102 @@
+rsids	fin_enrichment	phenotype	category	beta	sebeta	mlogp	pval	num_cases
+rs749676536	1.8e+0	Adhesive capsulitis of shoulder	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	0.993105	0.175177	7.84316	1.43496E-08	5538
+rs1646010	1.2e+0	"Body-mass index, inverse-rank normalized"	Quantitative endpoints	0.0162809	0.00291177	7.64737	2.25232E-08	266130
+rs1646010	1.2e+0	"Weight, inverse-rank normalized"	Quantitative endpoints	0.0147475	0.00269424	7.35587	4.40687E-08	271973
+rs920428151	1.6e+0	Autonomic disorders	VI Diseases of the nervous system (G6_)	2.50837	0.483392	6.6751	2.113E-07	549
+rs150626708	1.8e+0	Hereditary retinal dystrophy	VII Diseases of the eye and adnexa (H7_)	1.0391	0.205252	6.38339	4.13628E-07	380
+rs1176971548	No NFEE in gnomAD	Subjective visual disturbances	VII Diseases of the eye and adnexa (H7_)	-5.10043	1.04507	5.97534	1.05842E-06	7313
+rs930373347	No FIN in gnomAD	Phlebitis and thrombophlebitis (not including DVT)	IX Diseases of the circulatory system (I9_)	-3.05608	0.641719	5.71813	1.91368E-06	7037
+rs1404690067	No data in gnomAD	Extreme obesity with alveolar hypoventilation	"IV Endocrine, nutritional and metabolic diseases (E4_)"	2.43937	0.516675	5.63011	2.34364E-06	1064
+rs140302347	3.7e-1	Other disorders originating in the perinatal period	XVI Certain conditions originating in the perinatal period (P16_)	2.37358	0.513555	5.41984	3.80329E-06	256
+rs925168211	No data in gnomAD	Childhood asthma (age<16) (more control exclusions)	Asthma and related endpoints	2.11916	0.458981	5.40987	3.89162E-06	5865
+rs72790204	4.1e+0	Spinal enthesopathy	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	0.390337	0.0855007	5.3021	4.9877E-06	1145
+rs111544881	No data in gnomAD	Simple and mucopurulent chronic bronchitis	X Diseases of the respiratory system (J10_)	2.77588	0.60942	5.28069	5.23974E-06	1299
+rs185197153	No data in gnomAD	Corneal degeneration	VII Diseases of the eye and adnexa (H7_)	1.03996	0.228764	5.26221	5.46752E-06	297
+rs376362929	No data in gnomAD	Pneumocystosis	I Certain infectious and parasitic diseases (AB1_)	9.20488	2.02993	5.23868	5.77192E-06	353
+rs537347171	No data in gnomAD	Gluteal tendinitis	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	3.3333	0.736909	5.21561	6.08681E-06	854
+rs191976056	No data in gnomAD	Biological medication for rheuma	Drug purchase endpoints	2.15361	0.481311	5.11577	7.66002E-06	4235
+rs1039955554	No NFEE in gnomAD	Other and unspecified degenerative diseases of nervous system	VI Diseases of the nervous system (G6_)	3.22947	0.725295	5.07148	8.48242E-06	545
+rs117517226	2.1e+0	Seborrhoeic keratosis	XII Diseases of the skin and subcutaneous tissue (L12_)	-0.238265	0.0535923	5.05785	8.75286E-06	5835
+	No data in gnomAD	Benign neoplasm: Floor of mouth	II Neoplasms from hospital discharges (CD2_)	5.01367	1.1326	5.01911	9.56952E-06	91
+rs549702753	4.3e+0	Von Willebrand disease	III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (D3_)	1.02388	0.23218	4.98527	0.000010345	336
+rs140302347	3.7e-1	Feeding problems of newborn	XVI Certain conditions originating in the perinatal period (P16_)	3.0806	0.698691	4.98381	1.03798E-05	108
+rs751519311	2.8e+1	Viral infections of the central nervous system	I Certain infectious and parasitic diseases (AB1_)	1.0405	0.236014	4.98288	1.04021E-05	2120
+rs34738810	1.2e+0	Acute tubulo-interstitial nephritis	XIV Diseases of the genitourinary system (N14_)	-0.0688591	0.0156219	4.98131	1.04397E-05	23912
+rs147524055	No data in gnomAD	Precocious puberty	"IV Endocrine, nutritional and metabolic diseases (E4_)"	3.99773	0.907651	4.97452	1.06043E-05	123
+rs189472516	8.9e-1	Hypotension	IX Diseases of the circulatory system (I9_)	0.39875	0.0905442	4.97343	1.06309E-05	4432
+rs369762889	No data in gnomAD	Other disorders of the genitourinary system	XIV Diseases of the genitourinary system (N14_)	4.46968	1.01695	4.95594	1.10678E-05	3607
+	No data in gnomAD	Cervicalgia	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	1.82186	0.414878	4.94819	0.000011267	6684
+rs559092680	No data in gnomAD	Nondiabetic hypoglycaemic coma	"IV Endocrine, nutritional and metabolic diseases (E4_)"	5.80894	1.32295	4.94738	1.12881E-05	122
+rs889494595	No data in gnomAD	Vascular dementia (multiple infarctions)	Neurological endpoints	2.7117	0.617927	4.94236	1.14193E-05	478
+rs11377942	9.3e-1	Chronic pancreatitis	XI Diseases of the digestive system (K11_)	-0.118238	0.0269559	4.93828	1.15271E-05	3320
+rs577483015	2.9e-1	Cicatricial alopecia [scarring hair loss]	XII Diseases of the skin and subcutaneous tissue (L12_)	3.81724	0.870563	4.93518	1.16097E-05	187
+rs2042405	1.0e+0	"Diabetes, insulin treatment (Kela reimbursement) (more control exclusions)"	Diabetes endpoints	0.039933	0.00912234	4.92063	1.20052E-05	53892
+rs72790224	1.3e+0	"Diseases of arteries, arterioles and capillaries (FINNGEN)"	IX Diseases of the circulatory system (I9_)	0.0603652	0.0137977	4.91568	1.21428E-05	22224
+rs192416775	6.2e+1	Other and unspecified mood [affective] disorders	V Mental and behavioural disorders (F5_)	0.768985	0.176808	4.86455	0.00001366	2210
+rs34720527	1.0e+0	Respiratory tuberculosis	I Certain infectious and parasitic diseases (AB1_)	-0.182962	0.0421709	4.84341	1.43413E-05	1793
+rs181728991	3.1e+0	Cervical disc disorders	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	-2.35933	0.544307	4.83548	1.46056E-05	13394
+rs186662380	1.0e+1	Other retinal artery occlusion	VII Diseases of the eye and adnexa (H7_)	0.755271	0.175158	4.79095	1.61827E-05	569
+rs182835912	3.9e+0	Other and unspecified iridocyclitis	VII Diseases of the eye and adnexa (H7_)	2.41632	0.560688	4.78627	0.000016358	1069
+	No data in gnomAD	Brain astrocytoma (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	4.79907	1.11484	4.77678	1.67194E-05	84
+rs908569830	No data in gnomAD	"Acute appendicitis, with complications"	XI Diseases of the digestive system (K11_)	1.15527	0.268492	4.77302	1.68648E-05	6747
+rs11867022	8.8e-1	Melanocytic naevi of lip	II Neoplasms from hospital discharges (CD2_)	-0.383095	0.089178	4.75939	1.74024E-05	224
+rs145745796	No FIN in gnomAD	Olecranon bursitis	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	2.09859	0.489102	4.7493	1.78115E-05	1681
+rs61512806	1.7e+0	Congenital malformations of heart and great arteries	Cardiometabolic endpoints	0.239611	0.0559828	4.72857	1.86823E-05	3843
+rs188695533	No NFEE in gnomAD	Meniscus derangement	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	0.404754	0.0945821	4.72722	1.87404E-05	24158
+rs142944979	8.8e-1	Papillary adenocarcinoma of thyroid gland (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	0.271188	0.063432	4.71914	1.90924E-05	1386
+rs7186010	8.8e-1	Bicipital tendinitis	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	-0.541104	0.126663	4.71278	0.000019374	1317
+rs118151706	No data in gnomAD	Melanocytic naevi of scalp and neck	II Neoplasms from hospital discharges (CD2_)	5.06391	1.18655	4.70456	1.97442E-05	598
+rs77505458	1.4e+0	Disorders of the thyroid gland	"IV Endocrine, nutritional and metabolic diseases (E4_)"	-0.113047	0.0265079	4.69853	2.00203E-05	56574
+rs141154902	3.9e-1	Streptococcal septicaemia	I Certain infectious and parasitic diseases (AB1_)	0.543189	0.127721	4.67576	2.10979E-05	2348
+rs1236438834	No NFEE in gnomAD	Spondylosis	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	0.91665	0.216019	4.65723	2.20176E-05	19892
+rs952192184	No data in gnomAD	Adenocarcinoma and Papillary adenocarcinoma of kidney (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	4.81257	1.13414	4.65718	2.20201E-05	212
+rs1452956386	No NFEE in gnomAD	Infective dermatitis	XII Diseases of the skin and subcutaneous tissue (L12_)	2.6332	0.622262	4.63456	2.31974E-05	3405
+	No data in gnomAD	Atrial septal defect	"XVII Congenital malformations, deformations and chromosomal abnormalities (Q17)"	2.32155	0.548713	4.63311	0.000023275	1070
+rs1267871191	No data in gnomAD	Malignant neoplasm of nasal cavity and sinuses (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	3.78389	0.894518	4.63152	2.33604E-05	149
+rs1251342347	No NFEE in gnomAD	Other and unspecified neuropathies	VI Diseases of the nervous system (G6_)	3.5296	0.838698	4.5898	2.57158E-05	112
+	No data in gnomAD	Hypermobility syndrome	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	2.29702	0.549051	4.54227	0.00002869	1481
+rs116864712	3.7e-1	"Dental caries 1, only avohilmo"	XI Diseases of the digestive system (K11_)	0.144271	0.0345149	4.5353	2.91541E-05	161113
+rs1387910672	No data in gnomAD	Other and unspecified psoriasis	XII Diseases of the skin and subcutaneous tissue (L12_)	3.62976	0.868769	4.53163	2.94015E-05	1667
+rs914903667	No data in gnomAD	Other congenital malformations of peripheral vascular system	"XVII Congenital malformations, deformations and chromosomal abnormalities (Q17)"	3.54272	0.848204	4.5291	2.95733E-05	319
+	No data in gnomAD	Folate deficiency anaemia	III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (D3_)	3.5625	0.85318	4.52687	2.97256E-05	178
+rs12934374	2.1e-1	Other disorders of Eustachian tube	VIII Diseases of the ear and mastoid process (H8_)	2.06127	0.49445	4.514	3.06196E-05	686
+rs1436997633	No FIN in gnomAD	Vascular syndromes of brain in cerebrovascular disorders	IX Diseases of the circulatory system (I9_)	2.90882	0.698702	4.50327	3.13856E-05	1180
+rs9926887	9.5e-1	Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances	XX External causes of morbidity and mortality (VWXY20_)	0.0921118	0.0221381	4.49874	3.17147E-05	5811
+rs920428151	1.6e+0	Idiopathic peripheral autonomic neuropathy	VI Diseases of the nervous system (G6_)	3.55273	0.854753	4.49046	3.23251E-05	89
+rs951897151	1.6e+0	Onycholysis	XII Diseases of the skin and subcutaneous tissue (L12_)	3.35313	0.807336	4.48455	0.000032768	153
+rs148352782	2.2e-1	Hypopituitarism	"IV Endocrine, nutritional and metabolic diseases (E4_)"	-2.71365	0.654833	4.46694	0.000034124	1902
+rs760291554	No data in gnomAD	"Acquired clawhand, clubhand, clawfoot and clubfoot"	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	4.45234	1.07505	4.4622	3.44985E-05	131
+rs374195308	2.0e+0	Benign neoplasm: Lower jaw bone	II Neoplasms from hospital discharges (CD2_)	3.21737	0.777535	4.45532	3.50494E-05	114
+rs922314478	No NFEE in gnomAD	"Chronic periodontitis, complicated"	XI Diseases of the digestive system (K11_)	1.36199	0.329417	4.44896	3.55664E-05	2462
+rs117095327	1.5e+0	Algoneurodystrophy	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	0.63045	0.15261	4.44248	3.61011E-05	888
+rs527388634	5.2e-1	Abscess of lung	X Diseases of the respiratory system (J10_)	2.24908	0.544847	4.43644	3.66067E-05	390
+"rs368488730,rs556789453"	2.3e-1	Mandibular retrognathia	XI Diseases of the digestive system (K11_)	0.745044	0.180639	4.42996	3.71569E-05	1703
+rs190077263	2.6e+0	Other specified/unspecified deforming dorsopathies	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	1.88642	0.457556	4.42683	3.74257E-05	530
+	No data in gnomAD	Other disorders following mastoidectomy	VIII Diseases of the ear and mastoid process (H8_)	4.46663	1.08437	4.41983	3.80338E-05	89
+	No data in gnomAD	Complications following abortion and ectopic and molar pregnancy	"XV Pregnancy, childbirth and the puerperium (O15_)"	2.53312	0.615017	4.41921	3.80882E-05	1004
+rs1048395417	9.6e+0	Other diseases of urinary system	XIV Diseases of the genitourinary system (N14_)	0.443136	0.107748	4.40776	3.91057E-05	49276
+rs568910239	No data in gnomAD	Mood [affective] disorders	V Mental and behavioural disorders (F5_)	-0.796105	0.193615	4.40607	3.92582E-05	48085
+rs146073985	No data in gnomAD	Malignant neoplasm of adrenal gland (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	5.28956	1.28674	4.40423	3.94248E-05	88
+rs191210714	2.2e+0	Diffuse large B-cell lymphoma (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	0.442706	0.107741	4.40074	3.97429E-05	1010
+rs545714009	1.2e+1	Ankyloglossia	"XVII Congenital malformations, deformations and chromosomal abnormalities (Q17)"	3.35064	0.817285	4.38337	4.13647E-05	365
+rs75223942	5.7e-1	Alzheimer’s disease (Atypical or mixed) (more control exclusions)	Neurological endpoints	0.986927	0.240774	4.38197	4.14983E-05	2044
+rs1457944185	No NFEE in gnomAD	Vitamin A deficiency	"IV Endocrine, nutritional and metabolic diseases (E4_)"	2.78896	0.680578	4.38001	0.000041686	120
+rs193037835	6.1e-1	Infections specific to the perinatal period	XVI Certain conditions originating in the perinatal period (P16_)	1.81415	0.442742	4.37928	4.17561E-05	256
+rs111544881	No data in gnomAD	Other acquired deformities of musculoskeletal system and connective tissue	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	2.60495	0.635851	4.37787	4.18919E-05	1249
+rs143613129	No NFEE in gnomAD	Unequal limb length (acquired)	XIII Diseases of the musculoskeletal system and connective tissue (M13_)	1.8314	0.447335	4.37269	4.23945E-05	234
+rs778136312	2.8e+1	Benign neoplasm of mouth and pharynx	II Neoplasms from hospital discharges (CD2_)	0.680514	0.166286	4.36971	4.26864E-05	3216
+rs184499439	No data in gnomAD	Neuroendocrine tumor and carcinoma of lung (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	4.44659	1.08672	4.36843	4.28124E-05	169
+rs750926165	No data in gnomAD	"Severe visual impairment, binocular"	VII Diseases of the eye and adnexa (H7_)	2.82967	0.692103	4.36236	0.000043415	122
+rs573816468	1.2e+1	Dermatophytosis	I Certain infectious and parasitic diseases (AB1_)	-1.13567	0.277786	4.36194	0.000043457	3554
+	No data in gnomAD	Hyphaema and other vascular disorders of iris and ciliary body	VII Diseases of the eye and adnexa (H7_)	4.64146	1.13673	4.35235	4.44273E-05	467
+rs1450784972	No data in gnomAD	Age-related macular degeneration (whether dry or wet)	VII Diseases of the eye and adnexa (H7_)	-8.55135	2.09673	4.3435	4.53419E-05	8913
+rs1019455859	No data in gnomAD	Serous carcinoma of ovary (controls excluding all cancers)	"II Neoplasms, from cancer register (ICD-O-3)"	2.47617	0.607331	4.34108	4.55953E-05	852
+rs561993529	No data in gnomAD	Recurrent cholesteatoma of postmastoidectomy cavity	VIII Diseases of the ear and mastoid process (H8_)	4.60936	1.13086	4.33892	4.58226E-05	87
+rs186466868	2.1e-1	Dacryoadenitis	VII Diseases of the eye and adnexa (H7_)	1.84206	0.452141	4.33538	4.61977E-05	198
+rs758556048	No data in gnomAD	First line medication for Crohn's disease	Drug purchase endpoints	0.594758	0.146154	4.32666	4.71346E-05	77497
+rs369762889	No data in gnomAD	Nontoxic single thyroid nodule	"IV Endocrine, nutritional and metabolic diseases (E4_)"	4.63879	1.14019	4.32483	4.73337E-05	2027
+rs538855385	8.5e-1	Other benign neoplasms of connective and other soft tissue	II Neoplasms from hospital discharges (CD2_)	-1.37857	0.339092	4.31934	4.79358E-05	2857
+rs11867022	8.8e-1	Obesity	"IV Endocrine, nutritional and metabolic diseases (E4_)"	-0.0415154	0.0102203	4.31298	0.000048643	21375
+rs902134240	No FIN in gnomAD	Other septicaemia	I Certain infectious and parasitic diseases (AB1_)	1.19699	0.295046	4.30354	4.97119E-05	12301
+rs117147442	2.2e+0	"Myocardial infarction, strict"	IX Diseases of the circulatory system (I9_)	-0.131663	0.0324555	4.30303	4.97703E-05	24185
+rs112858230	No data in gnomAD	"Height, inverse-rank normalized"	Quantitative endpoints	-0.275021	0.0678038	4.30196	0.000049893	267937
