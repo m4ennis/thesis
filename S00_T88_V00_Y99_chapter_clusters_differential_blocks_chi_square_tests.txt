@@ -1,0 +1,60 @@
+statistic	p.value	parameter	method	block	adj_p	name
+70749.05781035172	0	2	Pearson's Chi-squared test	S00-S09	0	Injuries to the head
+6292.797201368129	0	2	Pearson's Chi-squared test	S10-S19	0	Injuries to the neck
+21285.92198002306	0	2	Pearson's Chi-squared test	S20-S29	0	Injuries to the thorax
+21331.480490352882	0	2	Pearson's Chi-squared test	S30-S39	0	Injuries to the abdomen, lower back, lumbar spine and pelvis
+28608.903923958238	0	2	Pearson's Chi-squared test	S40-S49	0	Injuries to the shoulder and upper arm
+54698.40528302832	0	2	Pearson's Chi-squared test	S50-S59	0	Injuries to the elbow and forearm
+56791.83646421218	0	2	Pearson's Chi-squared test	S60-S69	0	Injuries to the wrist and hand
+27434.61803718527	0	2	Pearson's Chi-squared test	S70-S79	0	Injuries to the hip and thigh
+61453.781387064024	0	2	Pearson's Chi-squared test	S80-S89	0	Injuries to the knee and lower leg
+14328.716517468161	0	2	Pearson's Chi-squared test	S90-S99	0	Injuries to the ankle and foot
+2549.577964947334	0	2	Pearson's Chi-squared test	T00-T07	0	Injuries involving multiple body regions
+3089.1549956423014	0	2	Pearson's Chi-squared test	T08-T14	0	Injuries to unspecified part of trunk, limb or body region
+5811.156962764942	0	2	Pearson's Chi-squared test	T15-T19	0	Effects of foreign body entering through natural orifice
+3552.8071351969256	0	2	Pearson's Chi-squared test	T20-T25	0	Burns and corrosions of external body surface, specified by site
+255.5758485399943	3.179871978566924e-56	2	Pearson's Chi-squared test	T26-T28	1.9079231871401544e-55	Burns and corrosions confined to eye and internal organs
+2381.7153647184523	0	2	Pearson's Chi-squared test	T29-T32	0	Burns and corrosions of multiple and unspecified body regions
+36.83974645796879	1.000807841095959e-8	2	Pearson's Chi-squared test	T33-T35	2.001615682191918e-8	Frostbite
+26713.19921216147	0	2	Pearson's Chi-squared test	T36-T50	0	Poisoning by drugs, medicaments and biological substances
+9855.07681613435	0	2	Pearson's Chi-squared test	T51-T65	0	Toxic effects of substances chiefly nonmedicinal as to source
+7442.787423175033	0	2	Pearson's Chi-squared test	T66-T78	0	Other and unspecified effects of external causes
+3211.110672804177	0	2	Pearson's Chi-squared test	T79-T79	0	Certain early complications of trauma
+139424.369057443	0	2	Pearson's Chi-squared test	T80-T88	0	Complications of surgical and medical care, not elsewhere classified
+14448.25314825493	0	2	Pearson's Chi-squared test	T90-T98	0	Sequelae of injuries, of poisoning and of other consequences of external causes
+4676.337130290349	0	2	Pearson's Chi-squared test	V01-V09	0	Pedestrian injured in transport accident
+14824.526260117636	0	2	Pearson's Chi-squared test	V10-V19	0	Pedal cyclist injured in transport accident
+6286.374170340898	0	2	Pearson's Chi-squared test	V20-V29	0	Motorcycle rider injured in transport accident
+57.82831898971337	2.7716608187032056e-13	2	Pearson's Chi-squared test	V30-V39	8.314982456109617e-13	Occupant of three-wheeled motor vehicle injured in transport accident
+9224.556592803603	0	2	Pearson's Chi-squared test	V40-V49	0	Car occupant injured in transport accident
+369.2591476511904	6.552316864817366e-81	2	Pearson's Chi-squared test	V50-V59	4.586621805372156e-80	Occupant of pick-up truck or van injured in transport accident
+404.8299385735205	1.2367894846038193e-88	2	Pearson's Chi-squared test	V60-V69	9.894315876830554e-88	Occupant of heavy transport vehicle injured in transport accident
+1074.3525515675985	5.09691766092126e-234	2	Pearson's Chi-squared test	V70-V79	7.64537649138189e-233	Bus occupant injured in transport accident
+4578.386937901578	0	2	Pearson's Chi-squared test	V80-V89	0	Other land transport accidents
+702.2414269461686	3.2375140118623705e-153	2	Pearson's Chi-squared test	V90-V94	3.885016814234845e-152	Water transport accidents
+415.3837263736703	6.317858309338832e-91	2	Pearson's Chi-squared test	V95-V97	5.686072478404949e-90	Air and space transport accidents
+193.05828254161193	1.1965382964830395e-42	2	Pearson's Chi-squared test	V98-V99	5.982691482415198e-42	Other and unspecified transport accidents
+172407.21236359148	0	2	Pearson's Chi-squared test	W00-W19	0	Falls
+45506.04067868587	0	2	Pearson's Chi-squared test	W20-W49	0	Exposure to inanimate mechanical forces
+10670.324277995009	0	2	Pearson's Chi-squared test	W50-W64	0	Exposure to animate mechanical forces
+133.50194973534175	1.0242829728913352e-29	2	Pearson's Chi-squared test	W65-W74	4.097131891565341e-29	Accidental drowning and submersion
+1730.1887569575736	0	2	Pearson's Chi-squared test	W75-W84	0	Other accidental threats to breathing
+570.301917094179	1.4471454836616238e-124	2	Pearson's Chi-squared test	W85-W99	1.591860032027786e-123	Exposure to electric current, radiation and extreme ambient air temperature and pressure
+1126.5510697909244	2.357997844703622e-245	2	Pearson's Chi-squared test	X00-X09	3.772796551525795e-244	Exposure to smoke, fire and flames
+1810.0404212837955	0	2	Pearson's Chi-squared test	X10-X19	0	Contact with heat and hot substances
+977.3834883709054	5.8059347216312374e-213	2	Pearson's Chi-squared test	X20-X29	7.547715138120608e-212	Contact with venomous animals and plants
+417.37488546121176	2.334506995160959e-91	2	Pearson's Chi-squared test	X30-X39	2.334506995160959e-90	Exposure to forces of nature
+8775.225591958117	0	2	Pearson's Chi-squared test	X40-X49	0	Accidental poisoning by and exposure to noxious substances
+7804.923806729738	0	2	Pearson's Chi-squared test	X50-X57	0	Overexertion, travel and privation
+30415.243046756197	0	2	Pearson's Chi-squared test	X58-X59	0	Accidental exposure to other and unspecified factors
+20823.475336754753	0	2	Pearson's Chi-squared test	X60-X84	0	Intentional self-harm
+1174.7014481646336	8.256986778271483e-256	2	Pearson's Chi-squared test	X85-X99	1.403687752306152e-254	Assault
+7625.822898692805	0	2	Pearson's Chi-squared test	Y00-Y09	0	Assault
+992.4342962386362	3.130622815657342e-216	2	Pearson's Chi-squared test	Y10-Y34	4.382871941920279e-215	Event of undetermined intent
+11.953509471159663	0.0025370463331090376	2	Pearson's Chi-squared test	Y35-Y36	0.0025370463331090376	Legal intervention and operations of war
+65098.41675963611	0	2	Pearson's Chi-squared test	Y40-Y59	0	Drugs, medicaments and biological substances causing adverse effects in therapeutic use
+5911.0943506590465	0	2	Pearson's Chi-squared test	Y60-Y69	0	Misadventures to patients during surgical and medical care
+2657.2037542595704	0	2	Pearson's Chi-squared test	Y70-Y82	0	Medical devices associated with adverse incidents in diagnostic and therapeutic use
+120936.31807032002	0	2	Pearson's Chi-squared test	Y83-Y84	0	Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure
+10451.947025894335	0	2	Pearson's Chi-squared test	Y85-Y89	0	Sequelae of external causes of morbidity and mortality
+11120.52350584813	0	2	Pearson's Chi-squared test	Y90-Y98	0	Supplementary factors related to causes of morbidity and mortality classified elsewhere
